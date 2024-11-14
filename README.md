@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muriidi Mohamed</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 <p align="center">
-  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baabuu-10&label=Profile%20views&color=0e75b6&style=flat" alt="baabuu-10" /> </p>
